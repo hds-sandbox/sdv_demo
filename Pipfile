@@ -11,6 +11,8 @@ seaborn = "*"
 ipython = "*"
 jupyter = "*"
 ipykernel = "*"
+requests = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
